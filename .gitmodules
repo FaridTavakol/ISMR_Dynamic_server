@@ -1,0 +1,9 @@
+[submodule "test_controller_pkg"]
+	path = test_controller_pkg
+	url = https://github.com/WPI-AIM-Hybrid-Exoskeleton/test_controller_pkg.git
+[submodule "ambf_control_system"]
+	path = ambf_control_system
+	url = https://github.com/WPI-AIM/ambf_control_system.git
+[submodule "rbdl-orb"]
+	path = rbdl-orb
+	url = https://github.com/WPI-AIM-Hybrid-Exoskeleton/rbdl-orb.git
